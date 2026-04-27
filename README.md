@@ -28,3 +28,9 @@ Need to do Step 8 ,  Validation: Validate personas through PCA visualisation (pr
 
 WE can also do HDBSCAN vs K means as an extension
 
+Need to do Visualisations
+
+Need to do reports
+
+Need to do findings
+
