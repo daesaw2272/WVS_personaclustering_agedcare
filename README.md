@@ -12,3 +12,8 @@ Need to do •	Elbow Method: identifies diminishing returns in inertia reduction
 Need to do Select the optimal k by balancing statistical metrics with practical interpretability. Doma (2026) found that k=4 provided the best balance for the ANZ dataset, yielding three well-balanced personas (28.4%, 33.9%, 34.4%) plus one small outlier segment (3.3%).
 Need to do Step 7 ,  Persona Profiling: Profile each cluster across the WVS thematic dimensions, calculating cluster means for continuous/ordinal variables and modes for categorical variables. Assign directional indicators (HIGH/LOW/AVERAGE) relative to the overall dataset distribution. Organise profiles across ten thematic domains: Demographics, Social Values, Wellbeing, Trust, Economic Views, Corruption Perceptions, Security Concerns, Postmaterialism, Technology Views, and Religious/Ethical/Political.
 Need to do Step 8 ,  Validation: Validate personas through PCA visualisation (projecting the high-dimensional space into 2D to assess visual separation), internal consistency checks across random seeds, and qualitative assessment of thematic coherence within each persona.
+
+
+
+WE can also do HDBSCAN vs K means as an extension
+
